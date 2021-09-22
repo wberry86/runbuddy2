@@ -12,3 +12,5 @@ https://lernatino.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Will Berry
+
+### ©️2019 Run Buddy, Inc
