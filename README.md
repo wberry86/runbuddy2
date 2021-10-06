@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://wberry86.io/run-buddy/
+https://wberry86.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by Will Berry
